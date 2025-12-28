@@ -1,1 +1,2 @@
-# ilk-proje
+# Kyk Kantin Sistemi 
+ (C Dilinde)
